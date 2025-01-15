@@ -95,6 +95,9 @@ nav:
       - videos.md
   - Auto Attributes:
       - auto_attributes.md
+  - 3rd Party Packages & Plugins:
+      - plugins.md
+      - packages.md
   - About:
       - About Guide: about.md
   - Release Notes: release_notes.md
